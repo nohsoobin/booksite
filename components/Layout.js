@@ -31,10 +31,12 @@ export default function Layout({ title, children }) {
             <Link href="/" className="text-lg font-bold text-white-600">
               booksite
             </Link>
-
             <div>
               <Link href="/review" className="p-2">
                 review
+              </Link>
+              <Link href="/myapp" className="p-2">
+                개인 포트폴리오
               </Link>
               {status === 'loading' ? (
                 'Loading'
