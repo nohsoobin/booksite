@@ -20,7 +20,7 @@ export default function Home() {
             </a>
           </p>
           <p>
-            <a href="mymy-beige.vercel.app">임혜준 개인 포트폴리오</a>
+            <a href="https://mymy-beige.vercel.app/">임혜준 개인 포트폴리오</a>
           </p>
           <p>
             <a href="https://myblog-opal.vercel.app/">양유나 개인 포트폴리오</a>
